@@ -54,13 +54,11 @@ Supplementary heatmaps for rhizosphere VOCs and LC-MS non-volatile metabolite fe
 
 ## Data availability
 
-Large raw datasets should not be stored directly in GitHub.
 
-Recommended deposition:
+- Raw 16S rRNA sequencing reads: NCBI Sequence Read Archive under BioProject accession number PRJNA1390630.
 
-- Raw 16S rRNA sequencing reads: NCBI SRA or ENA
-- Raw LC-MS/GC-MS metabolomics files: MetaboLights, Metabolomics Workbench, or another appropriate repository
-- Processed tables and scripts: GitHub and/or Zenodo
+- Raw LC-MS/GC-MS metabolomics files: 
+
 
 See `data/README_data.md` for the expected local file structure.
 
