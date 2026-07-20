@@ -57,7 +57,7 @@ Supplementary heatmaps for rhizosphere VOCs and LC-MS non-volatile metabolite fe
 
 - Raw 16S rRNA sequencing reads: NCBI Sequence Read Archive under BioProject accession number PRJNA1390630.
 
-- Raw LC-MS/GC-MS metabolomics files: 
+- Raw LC-MS/GC-MS metabolomics files: GNPS task ID: 2146323cd71b4868a486b63ccf1e54ec
 
 
 See `data/README_data.md` for the expected local file structure.
@@ -89,5 +89,5 @@ Several scripts contain `TODO` comments where final file names, sample orders, o
 
 ## Citation
 
-#TODO ADD ZENODO DOI IF NEEDED
+Pending
 
