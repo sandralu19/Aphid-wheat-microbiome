@@ -17,7 +17,8 @@ data/
 │   ├── Blank.xlsx
 │   └── *.txt chromatogram peak tables
 ├── selected_leaf_vocs/
-│   └── selected peak intensity table and annotation table
+│   └── 100424_selectedpeaks.csv
+ 
 ├── microbiome/
 │   ├── ASVs.xlsx
 │   ├── TAX_K.xlsx
@@ -43,6 +44,4 @@ data/
 
 ## Notes
 
-- Input file names in the scripts may need to be updated to match the final archived files.
-- Metadata row names/order must match the sample order in processed feature tables.
-- Raw FASTQ and raw mass spectrometry vendor files should be deposited outside GitHub.
+- Raw FASTQ and raw mass spectrometry vendor files are deposited outside GitHub.
