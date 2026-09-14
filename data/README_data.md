@@ -1,8 +1,6 @@
 # Expected data structure
 
-This folder is a placeholder for processed input files used by the R scripts.
-
-Large raw files should not be committed to GitHub. Raw sequencing and metabolomics data should be deposited in appropriate public repositories and linked in the manuscript Data Availability statement.
+This file contains the exact names of the processed files used for data analysis in the manuscript.
 
 ## Suggested local structure
 
