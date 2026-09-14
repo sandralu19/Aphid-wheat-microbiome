@@ -30,7 +30,7 @@ data/
 │   ├── pca_distances_procrusts_below_2weeks.csv
 │   ├── pca_distances_procrusts_above2weeks.csv
 │   ├── pca_distances_procrusts_metabolites.csv
-│   └── metadata files
+│   └── meta_proc_all.csv
 ├── roots/
 │   └── roots_dryweight.csv
 ├── ecoplates/
