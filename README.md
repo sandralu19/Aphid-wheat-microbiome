@@ -66,9 +66,7 @@ See `data/README_data.md` for the expected local file structure.
 
 These scripts were tidied from exploratory analysis scripts. They are intended to document the final workflow used in the manuscript rather than serve as a general-purpose R package.
 
-Each analysis script writes a `session_info_*.txt` file to the `outputs/` folder to document R and package versions.
-
-Several scripts contain `TODO` comments where final file names, sample orders, or repository DOI links should be confirmed before public release.
+The figures/ and outputs/ folders will contain selected figures and analysis outputs generated during the workflow. For more information, refer to the README.md files within these folders.
 
 ## Main R packages
 
