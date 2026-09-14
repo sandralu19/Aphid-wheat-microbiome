@@ -1,9 +1,7 @@
 # Figures
 
 
-Figures are generated from the underlying data and analysis workflows and are not required to run the scripts. 
-
-The main analyses represented include:
+The figures created during data analysis for the manuscript include:
 
 - Leaf volatile organic compound (VOC) profiles
 - Leaf VOC heatmaps
