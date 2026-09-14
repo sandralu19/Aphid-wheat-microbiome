@@ -12,6 +12,5 @@ Examples of outputs may include:
 - EcoPlate analysis results
 - Processed or summarised datasets used to generate figures
 
-Intermediate and temporary outputs are not included in the repository unless they are useful for understanding or reproducing the analyses.
 
 The analysis scripts in the [`scripts/`](../scripts/) directory generate these outputs from the underlying data. See the main [`README.md`](../README.md) for further information about the project and data availability.
